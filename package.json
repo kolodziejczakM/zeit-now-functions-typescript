@@ -1,0 +1,18 @@
+{
+  "name": "zeit-functions-ts-example",
+  "version": "1.0.0",
+  "description": "Boilerplate repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@now/node": "^1.4.1"
+  },
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
